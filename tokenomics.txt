@@ -1,0 +1,9 @@
+TOTAL SUPPLY = 1,000,000,000
+
+Distribution/Game Rewards = 250,000,000     ||  25%
+Airdrop = 150,000,000                       ||  15%
+Development = 100,000,000                   ||  10%
+Partnerships = 50,000,000                   ||  5%
+Team = 100,000,000                          ||  10%
+Treasury = 300,000,000                      ||  30%
+Ecosystem Development = 50,000,000          ||  5%
